@@ -1,0 +1,26 @@
+/Users/amit/Projects/c-sharp-project/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.deps.json
+/Users/amit/Projects/c-sharp-project/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.runtimeconfig.json
+/Users/amit/Projects/c-sharp-project/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.runtimeconfig.dev.json
+/Users/amit/Projects/c-sharp-project/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.dll
+/Users/amit/Projects/c-sharp-project/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.pdb
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.csproj.AssemblyReference.cache
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.AssemblyInfoInputs.cache
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.AssemblyInfo.cs
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.csproj.CoreCompileInputs.cache
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.dll
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.pdb
+/Users/amit/Projects/c-sharp-project/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.genruntimeconfig.cache
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.deps.json
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.runtimeconfig.json
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.runtimeconfig.dev.json
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.dll
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/bin/Debug/netcoreapp3.1/c-sharp-project.pdb
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.csproj.AssemblyReference.cache
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.AssemblyInfoInputs.cache
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.AssemblyInfo.cs
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.csproj.CoreCompileInputs.cache
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.dll
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.pdb
+/Users/aafrinsayani/Downloads/c-sharp-project 3/c-sharp-project/obj/Debug/netcoreapp3.1/c-sharp-project.genruntimeconfig.cache
